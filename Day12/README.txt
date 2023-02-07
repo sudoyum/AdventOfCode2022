@@ -51,8 +51,6 @@ location that should get the best signal?
 
 Your puzzle answer was 380.
 
-The first half of this puzzle is complete! It provides one gold star: *
-
 --- Part Two ---
 
 As you walk up the hill, you suspect that the Elves will want to turn this into
@@ -87,9 +85,14 @@ This path reaches the goal in only 29 steps, the fewest possible.
 What is the fewest steps required to move starting from any square with
 elevation a to the location that should get the best signal?
 
-Answer: [                    ] [[Submit]]
+Your puzzle answer was 375.
 
-Although it hasn't changed, you can still get your puzzle input.
+Both parts of this puzzle are complete! They provide two gold stars: **
+
+At this point, you should return to your Advent calendar and try another
+puzzle.
+
+If you still want to see it, you can get your puzzle input.
 
 You can also [Shareon Twitter Mastodon] this puzzle.
 
